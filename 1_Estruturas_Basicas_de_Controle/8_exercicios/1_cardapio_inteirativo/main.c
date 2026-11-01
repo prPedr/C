@@ -42,6 +42,7 @@ int main() {
       break;
     default:
       printf("Opcao invalida");
+      break;
   }
 
   return 0;
